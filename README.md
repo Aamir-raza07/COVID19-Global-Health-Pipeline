@@ -35,7 +35,7 @@ A high-impact interactive dashboard was architected to serve operational leaders
 ---
 
 ## 📊 Dashboard Preview
-![COVID-19 Dashboard Preview](dashboard_screenshot (2).png)
+![COVID-19 Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
